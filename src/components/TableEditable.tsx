@@ -24,7 +24,7 @@ const TableEditable = memo(({ table }: Props) => {
   }, [dispatch, table.id]);
 
   return (
-    <table className="w-full border-collapse border border-gray-300">
+    <table className="w-full border-collapse bg-white border border-gray-300">
       <thead>
         <tr className="bg-blue-800">
           {table.header.map((header, index) => (
