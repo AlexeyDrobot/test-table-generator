@@ -17,6 +17,12 @@ pnpm-lock.yaml
 # Version files
 .nvmrc
 
+# GitHub Actions
+.github/
+
+# Documentation
+README.md
+
 # IDE files
 .vscode/
 .idea/
