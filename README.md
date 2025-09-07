@@ -1,5 +1,8 @@
 # Table Generator
 
+[![CI](https://github.com/username/table-generator/workflows/CI/badge.svg)](https://github.com/username/table-generator/actions)
+[![Security Audit](https://github.com/username/table-generator/workflows/Security%20Audit/badge.svg)](https://github.com/username/table-generator/actions)
+
 Интерактивное веб-приложение для создания и редактирования таблиц с адаптивным grid-макетом.
 
 ## 🚀 Возможности
