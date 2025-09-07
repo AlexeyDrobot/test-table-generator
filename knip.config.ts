@@ -9,6 +9,7 @@ const config: KnipConfig = {
     'docs/**',
     'README.md',
     'src/vite-env.d.ts',
+    'vitest.config.ts',
   ],
   ignoreDependencies: ['tailwindcss'],
 };

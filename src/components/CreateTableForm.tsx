@@ -80,9 +80,6 @@ const CreateTableFormComponent = ({ setIsOpen, setResetForm }: Props) => {
         </select>
         <FaChevronDown className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-500 size-3" />
       </div>
-      {errors.column4 && (
-        <span className="text-red-500 text-xs">{errors.column4.message}</span>
-      )}
       <button
         type="submit"
         className="bg-blue-500 text-white py-2 px-4 rounded-md cursor-pointer uppercase"
